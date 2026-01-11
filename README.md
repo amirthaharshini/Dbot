@@ -51,3 +51,15 @@ Gradual Cooling Behavior
 🔐 Login System
 
 📈 CRT History & Trend Analysis
+
+
+| Category             | Technology    |
+| -------------------- | ------------- |
+| Programming Language | Python 3.13   |
+| UI Framework         | PyQt6         |
+| Machine Learning     | Random Forest |
+| Data Storage         | CSV Files     |
+| Visualization        | Matplotlib    |
+| IDE                  | VS Code       |
+| Version Control      | Git & GitHub  |
+
